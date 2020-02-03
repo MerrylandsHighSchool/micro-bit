@@ -4,7 +4,7 @@ hr {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
-img {width:100px;max-width:100%;margin:0 auto;}
+.navbar-brand img {width:100px;max-width:100%;margin:0 auto;}
 a.navbar-brand, .navbar {padding:0px!important}
 
 .form-control-borderless {
