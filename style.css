@@ -1,0 +1,23 @@
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+img {width:100px;max-width:100%;margin:0 auto;}
+a.navbar-brand, .navbar {padding:0px!important}
+
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+a:visited, a {color:rgba(0,0,0,.9);}
+
+a:hover {color:rgba(0,0,0,.5);}
+
